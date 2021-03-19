@@ -5,4 +5,4 @@ SimpleERC20-ICO
     Using ReactJS for frontend
     Using Truffle to deploy the contracts
     Using Web3 to interact with the contracts
-    Deployed in Heroku https://shi-tokens.herokuapp.com/
+    Deployed in Heroku: https://shi-tokens.herokuapp.com/
